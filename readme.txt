@@ -1,5 +1,2 @@
-# html_study
-putting code about studying html
-
-
-我是婷婷小可爱
+git is distributed version control ayatem
+git is free software
